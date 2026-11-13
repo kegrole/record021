@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /private/
+Allow: /private/public/
+Disallow: /admin/
+
+User-agent: botA
+Disallow:
+
+Sitemap: /sitemap-index.xml
